@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/jim_website/static/css/main.fdc64ff4.chunk.css",
+    "main.js": "/jim_website/static/js/main.cb836346.chunk.js",
+    "main.js.map": "/jim_website/static/js/main.cb836346.chunk.js.map",
+    "runtime-main.js": "/jim_website/static/js/runtime-main.feea3d75.js",
+    "runtime-main.js.map": "/jim_website/static/js/runtime-main.feea3d75.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/jim_website/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.92854869.chunk.js": "/jim_website/static/js/2.92854869.chunk.js",
+    "static/js/2.92854869.chunk.js.map": "/jim_website/static/js/2.92854869.chunk.js.map",
+    "index.html": "/jim_website/index.html",
+    "precache-manifest.b1b65a8914f3616a32fa718b1329ffe1.js": "/jim_website/precache-manifest.b1b65a8914f3616a32fa718b1329ffe1.js",
+    "service-worker.js": "/jim_website/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/jim_website/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fdc64ff4.chunk.css.map": "/jim_website/static/css/main.fdc64ff4.chunk.css.map",
+    "static/js/2.92854869.chunk.js.LICENSE.txt": "/jim_website/static/js/2.92854869.chunk.js.LICENSE.txt",
+    "static/media/CSS2.png": "/jim_website/static/media/CSS2.c619f384.png",
+    "static/media/DB2.jpg": "/jim_website/static/media/DB2.24ef6aaf.jpg",
+    "static/media/ExpressJS.png": "/jim_website/static/media/ExpressJS.8b67d106.png",
+    "static/media/Firebase.jpg": "/jim_website/static/media/Firebase.fc876044.jpg",
+    "static/media/MyPic.jpeg": "/jim_website/static/media/MyPic.64cb402f.jpeg",
+    "static/media/Resume.docx": "/jim_website/static/media/Resume.9085fda0.docx",
+    "static/media/Styled_Components.png": "/jim_website/static/media/Styled_Components.924041ba.png",
+    "static/media/bootstrap_logo.png": "/jim_website/static/media/bootstrap_logo.cfecb2da.png",
+    "static/media/day_planner.png": "/jim_website/static/media/day_planner.b04355ec.png",
+    "static/media/football-pool.png": "/jim_website/static/media/football-pool.e0e9ac58.png",
+    "static/media/html-logo.jpg": "/jim_website/static/media/html-logo.1b56ac82.jpg",
+    "static/media/javascript-logo.png": "/jim_website/static/media/javascript-logo.12bac607.png",
+    "static/media/kardasian_group_project.png": "/jim_website/static/media/kardasian_group_project.75e950f0.png",
+    "static/media/mongodb-logo.jpg": "/jim_website/static/media/mongodb-logo.4dae2a92.jpg",
+    "static/media/password_gen.png": "/jim_website/static/media/password_gen.eb4bc9eb.png",
+    "static/media/project_vibes.png": "/jim_website/static/media/project_vibes.e53ca184.png",
+    "static/media/react-logo.svg": "/jim_website/static/media/react-logo.5d5d9eef.svg",
+    "static/media/weather_forecaster.png": "/jim_website/static/media/weather_forecaster.8df85537.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feea3d75.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.92854869.chunk.js",
+    "static/css/main.fdc64ff4.chunk.css",
+    "static/js/main.cb836346.chunk.js"
+  ]
+}
