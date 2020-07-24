@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "281f2132927bdb2ec9d31cf142971ef9",
+    "revision": "120fbe162d52347da7b71a3730b3e6f5",
     "url": "/jimdenis_website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jimdenis_website/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ad050cf587fbfb04949b",
+    "revision": "115257be76817b9a80c3",
     "url": "/jimdenis_website/static/css/main.fdc64ff4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jimdenis_website/static/js/2.3adaf86d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad050cf587fbfb04949b",
-    "url": "/jimdenis_website/static/js/main.685d8973.chunk.js"
+    "revision": "115257be76817b9a80c3",
+    "url": "/jimdenis_website/static/js/main.77516c40.chunk.js"
   },
   {
     "revision": "ec02e96d6eac7c7716b6",
